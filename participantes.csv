@@ -1,0 +1,10 @@
+evento,nombre,documento,telefono,tipo,direccion,foto
+evento 1,Pepe,1,1,Estudiante,1,/home/runner/sipiriripi/gato.jpg
+evento 2,Pepe,1,1,Estudiante,1,/home/runner/sipiriripi/gato.jpg
+evento 2,Maria,2,2,Estudiante,2,/home/runner/sipiriripi/gato.jpg
+evento 3,Maria,2,2,Estudiante,2,/home/runner/sipiriripi/gato.jpg
+evento 1,Juan,3,3,Estudiante,3,/home/runner/sipiriripi/gato.jpg
+evento 1,Sofia,4,4,Profesional,4,/home/runner/sipiriripi/gato.jpg
+evento 2,Sofia,4,4,Profesional,4,/home/runner/sipiriripi/gato.jpg
+evento 3,Sofia,4,4,Profesional,4,/home/runner/sipiriripi/gato.jpg
+evento 4,Sofia,4,4,Profesional,4,/home/runner/sipiriripi/gato.jpg
