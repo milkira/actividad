@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "evento 1",
+        "lugar": "aqui",
+        "fecha": "hoy",
+        "hora": "2:00",
+        "cupo": 4,
+        "imagen": "/home/runner/sipiriripi/gato.jpg"
+    },
+    {
+        "nombre": "evento 2",
+        "lugar": "alla",
+        "fecha": "ma\u00f1ana",
+        "hora": "3:00",
+        "cupo": 3,
+        "imagen": "/home/runner/sipiriripi/gato.jpg"
+    },
+    {
+        "nombre": "evento 3",
+        "lugar": "aca",
+        "fecha": "Ayer",
+        "hora": "4:00",
+        "cupo": 2,
+        "imagen": "/home/runner/sipiriripi/gato.jpg"
+    },
+    {
+        "nombre": "evento 4",
+        "lugar": "mas alla",
+        "fecha": "hoy",
+        "hora": "6:00",
+        "cupo": 1,
+        "imagen": "/home/runner/sipiriripi/gato.jpg"
+    }
+]
