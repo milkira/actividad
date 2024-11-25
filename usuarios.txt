@@ -1,0 +1,7 @@
+usuario,contraseña
+pepito,perez
+fulanito,detal
+user1,123
+user2,321
+nicki,nicole
+q,q
